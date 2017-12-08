@@ -1,4 +1,4 @@
-# Create YouTube Playlist from a URL 
+# Create YouTube playlist from a URL containing videos 
 
 
 ## Project Idea
