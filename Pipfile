@@ -13,3 +13,6 @@ requests = "*"
 
 [dev-packages]
 
+pytest = "*"
+pylint = "*"
+"pytest-flake8" = "*"

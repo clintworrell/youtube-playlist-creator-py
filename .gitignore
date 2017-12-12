@@ -102,3 +102,6 @@ ENV/
 
 # vim
 *.swp
+
+# Local dev directory - initially using it for Docker containers
+local_dev/
